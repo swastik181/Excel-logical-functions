@@ -27,7 +27,7 @@ Logical Functions
 - IF + OR
 - IF + NOT
 
-### 📈 Conditional Aggregation
+ Conditional Aggregation
 - COUNTIF
 - COUNTIFS
 - SUMIF
@@ -35,7 +35,7 @@ Logical Functions
 - AVERAGEIF
 - AVERAGEIFS
 
-### 🔤 Text Functions
+Text Functions
 - CONCATENATE
 - TEXTJOIN
 - LEFT

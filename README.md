@@ -1,5 +1,5 @@
 # Excel-logical-functions
-# 📊 Microsoft Excel Functions Assingments
+#  Microsoft Excel Functions Assingments
 
 A collection of practical Microsoft Excel projects and assignments designed to build strong foundations in spreadsheet-based data analysis, data manipulation, logical functions, lookup functions, conditional calculations, and text processing.
 
@@ -7,9 +7,9 @@ This repository documents my hands-on learning and application of Excel function
 
 ---
 
-## 🚀 Skills Covered
+  Skills Covered
 
-### 🔎 Lookup & Reference Functions
+ Lookup & Reference Functions
 - VLOOKUP
 - XLOOKUP
 - HLOOKUP
@@ -17,7 +17,7 @@ This repository documents my hands-on learning and application of Excel function
 - MATCH
 - INDEX + MATCH
 
-### 🧠 Logical Functions
+Logical Functions
 - IF
 - Nested IF
 - AND
@@ -45,13 +45,13 @@ This repository documents my hands-on learning and application of Excel function
 - LEN
 - TEXT
 
-### 📅 Date & Formatting Functions
+ Date & Formatting Functions
 - TEXT
 - Date formatting
 - Weekend/weekday identification
 - Conditional date-based calculations
 
-### 📌 Excel Concepts
+ Excel Concepts
 - Relative cell referencing
 - Absolute cell referencing
 - Mixed cell referencing
@@ -61,7 +61,7 @@ This repository documents my hands-on learning and application of Excel function
 
 ---
 
-## 📁 Project Structure
+Project Structure
 
 The repository contains multiple Excel assignments, with each workbook focusing on a specific group of Excel functions.
 
@@ -127,8 +127,7 @@ Examples include:
 These tasks demonstrate the practical use of `COUNTIFS`, `SUMIFS`, and `AVERAGEIFS` for multi-condition analysis.
 
 ---
-
-### 4. Lookup Functions
+ 4. Lookup Functions
 
 This section focuses on retrieving information from datasets using lookup and reference functions.
 
@@ -154,9 +153,9 @@ The objective is to understand both traditional lookup methods and modern Excel 
 
 ---
 
-## 🧮 Example Formulas
+ Example Formulas
 
-### IF
+IF
 
 ```excel
 =IF(E11>50,"Pass","Fail")
